@@ -1,2 +1,4 @@
 # HostsRefresh
-refresh hosts file for google etc.
+Script for modify hosts file
+
+Support Windows and Linux OS
